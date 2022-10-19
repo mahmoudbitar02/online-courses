@@ -1,0 +1,8 @@
+.mycard{-webkit-box-shadow: 4px 7px 24px 7px rgba(0,0,0,0.81);
+-moz-box-shadow: 4px 7px 24px 7px rgba(0,0,0,0.81);
+box-shadow: 4px 7px 24px 7px rgba(0,0,0,0.81);
+Copy Text}
+
+.mycard:hover{
+    border: 1px solid red;
+}
